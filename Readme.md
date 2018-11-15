@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ColumnCaptionHelper.cs](./CS/DevExpress.AutoNarrowColumnsCaptionsFeature/ColumnCaptionHelper/ColumnCaptionHelper.cs) (VB: [ColumnCaptionHelper.vb](./VB/DevExpress.AutoNarrowColumnsCaptionsFeature/ColumnCaptionHelper/ColumnCaptionHelper.vb))
+* [Form1.cs](./CS/DevExpress.AutoNarrowColumnsCaptionsFeature/Form1.cs) (VB: [Form1.vb](./VB/DevExpress.AutoNarrowColumnsCaptionsFeature/Form1.vb))
+* [Program.cs](./CS/DevExpress.AutoNarrowColumnsCaptionsFeature/Program.cs) (VB: [Program.vb](./VB/DevExpress.AutoNarrowColumnsCaptionsFeature/Program.vb))
+<!-- default file list end -->
 # How to implement adaptive column captions
 
 
